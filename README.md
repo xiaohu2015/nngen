@@ -9,3 +9,4 @@
 
 ### Diffusion Models
 - [DDPM](https://arxiv.org/abs/2006.11239) [[ddpm_mnist code](https://github.com/xiaohu2015/nngen/blob/main/models/diffusion_models/ddpm_mnist.ipynb)]
+- [DDIM](https://arxiv.org/abs/2010.02502) [[ddim_mnist code](https://github.com/xiaohu2015/nngen/blob/main/models/diffusion_models/ddim_mnist.ipynb)]
