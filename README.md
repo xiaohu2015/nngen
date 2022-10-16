@@ -11,3 +11,6 @@
 - [DDPM](https://arxiv.org/abs/2006.11239) [[ddpm_mnist code](models/diffusion_models/ddpm_mnist.ipynb)]
 - [DDIM](https://arxiv.org/abs/2010.02502) [[ddim_mnist code](models/diffusion_models/ddim_mnist.ipynb)]
 - [DDPM+](https://arxiv.org/abs/2102.09672) [[improved_ddpm mnist code](models/diffusion_models/improved_ddpm_mnist.ipynb)]
+
+### Text-to-Image Models
+- [Stable Diffusion](https://arxiv.org/abs/2112.10752) [[code](models/stable_diffusion)]
